@@ -11,4 +11,4 @@ PRODUCT_NAME = flutter_deer
 PRODUCT_BUNDLE_IDENTIFIER = com.weilu.flutterDeer
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2020 com.weilu. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2024 com.weilu. All rights reserved.
